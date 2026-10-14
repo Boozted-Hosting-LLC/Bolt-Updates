@@ -5,7 +5,10 @@
   "releases": [
     {
       "version": "0.0.1.0",
-      "changes": [],
+      "changes": [
+        "Promotes the tested 0.0.0.5a build to production as 0.0.1.0.",
+        "Version-only release; theme behavior and features match 0.0.0.5a."
+      ],
       "release_url": "https://github.com/Boozted-Hosting-LLC/Bolt-Theme/releases/tag/v0.0.1.0"
     }
   ]
