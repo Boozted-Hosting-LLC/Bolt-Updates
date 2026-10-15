@@ -2,5 +2,11 @@
   "schema_version": 1,
   "package_name": "kaden.boozted.bolt",
   "channel": "testing",
-  "releases": []
+  "releases": [
+    {
+      "version": "0.0.1.1a",
+      "changes": [],
+      "release_url": "https://github.com/Boozted-Hosting-LLC/Bolt-Theme/releases/tag/v0.0.1.1a"
+    }
+  ]
 }
