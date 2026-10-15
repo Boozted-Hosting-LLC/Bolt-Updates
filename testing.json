@@ -5,7 +5,11 @@
   "releases": [
     {
       "version": "0.0.1.1a",
-      "changes": [],
+      "changes": [
+        "Add Powered by Boozted directly above the Calagopus copyright.",
+        "Use Kaden Mielitz for author and website contact credits.",
+        "Retain the full name in license and copyright notices."
+      ],
       "release_url": "https://github.com/Boozted-Hosting-LLC/Bolt-Theme/releases/tag/v0.0.1.1a"
     }
   ]
