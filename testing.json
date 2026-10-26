@@ -5,7 +5,12 @@
   "releases": [
     {
       "version": "0.0.1.2a",
-      "changes": [],
+      "changes": [
+        "Support Calagopus 1.2.7's updated file editor and empty server list text.",
+        "Show admin-selected menu icons in mobile navigation and menu arrangers.",
+        "Respect disabled avatar changes and keep mobile page titles visible.",
+        "Preserve Bolt's shared menu, standalone links, tablet layout and branding."
+      ],
       "release_url": "https://github.com/Boozted-Hosting-LLC/Bolt-Theme/releases/tag/v0.0.1.2a"
     },
     {
