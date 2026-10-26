@@ -4,6 +4,11 @@
   "channel": "testing",
   "releases": [
     {
+      "version": "0.0.1.2a",
+      "changes": [],
+      "release_url": "https://github.com/Boozted-Hosting-LLC/Bolt-Theme/releases/tag/v0.0.1.2a"
+    },
+    {
       "version": "0.0.1.1a",
       "changes": [
         "Add Powered by Boozted directly above the Calagopus copyright.",
