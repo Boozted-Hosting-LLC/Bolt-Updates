@@ -4,6 +4,11 @@
   "channel": "testing",
   "releases": [
     {
+      "version": "0.0.1.3a",
+      "changes": [],
+      "release_url": "https://github.com/Boozted-Hosting-LLC/Bolt-Theme/releases/tag/v0.0.1.3a"
+    },
+    {
       "version": "0.0.1.2a",
       "changes": [
         "Support Calagopus 1.2.7's updated file editor and empty server list text.",
