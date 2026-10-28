@@ -5,7 +5,15 @@
   "releases": [
     {
       "version": "0.0.1.3a",
-      "changes": [],
+      "changes": [
+        "Add an optional floating phone navigation bar and clearer active-page feedback.",
+        "Hide phone navigation while typing and improve Android bottom-bar spacing.",
+        "Simplify the theme editor on phones while keeping desktop panes on tablets.",
+        "Keep the adjustable desktop breakpoint at 768 CSS pixels by default.",
+        "Add Home, End and Hide keyboard controls to the phone file editor.",
+        "Keep bottom file-tree rows reachable and remove empty phone title spacing.",
+        "Preserve Bolt's shared menu, saved themes, migrations and branding."
+      ],
       "release_url": "https://github.com/Boozted-Hosting-LLC/Bolt-Theme/releases/tag/v0.0.1.3a"
     },
     {
